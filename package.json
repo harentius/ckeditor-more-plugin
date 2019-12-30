@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harentius/ckeditor-more-plugin.git"
+    "url": "git+https://github.com/zionsg/CKEditor-More-plugin.git"
   },
   "keywords": [
     "CKeditor",
@@ -17,7 +17,7 @@
   "author": "https://github.com/zionsg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harentius/ckeditor-more-plugin/issues"
+    "url": "https://github.com/zionsg/CKEditor-More-plugin/issues"
   },
-  "homepage": "https://github.com/harentius/ckeditor-more-plugin#readme"
+  "homepage": "https://github.com/zionsg/CKEditor-More-plugin#readme"
 }
