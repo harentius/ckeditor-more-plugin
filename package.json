@@ -1,0 +1,23 @@
+{
+  "name": "ckeditor-more-plugin",
+  "version": "1.0.0",
+  "description": "CKeditor plugin to add '<!--more-->' html comment",
+  "main": "wpmore/plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harentius/ckeditor-more-plugin.git"
+  },
+  "keywords": [
+    "CKeditor",
+    "more"
+  ],
+  "author": "https://github.com/zionsg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harentius/ckeditor-more-plugin/issues"
+  },
+  "homepage": "https://github.com/harentius/ckeditor-more-plugin#readme"
+}
